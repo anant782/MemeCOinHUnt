@@ -1,0 +1,5 @@
+flask>=3.0.0
+requests>=2.31.0
+# web3 is optional — only needed if you want direct BSC RPC calls.
+# Uncomment the line below to install it:
+# web3>=6.0.0

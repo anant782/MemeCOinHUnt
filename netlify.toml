@@ -1,0 +1,5 @@
+[build]
+  functions = "functions"   # your python functions folder
+[dev]
+  port = 5000
+  functions = "functions"
